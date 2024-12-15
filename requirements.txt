@@ -1,0 +1,4 @@
+pandas
+calendar
+streamlit
+matplotlib.pyplot
