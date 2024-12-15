@@ -1,4 +1,3 @@
-pandas
-calendar
-streamlit
-matplotlib.pyplot
+matplotlib==3.4.3
+pandas==2.0.3
+streamlit==1.40.1
